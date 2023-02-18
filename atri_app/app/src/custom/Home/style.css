@@ -1,0 +1,15 @@
+.p-Home.Flex23 {
+    margin-left: 140px;
+}
+.Flex10,.Flex11.Flex100,.Flex101,.Flex191,.Flex315{
+    transition: all 1s;
+}
+.Flex10:hover,.Flex11:hover,.Flex100:hover,.Flex101:hover,.Flex191:hover,.Flex315:hover{
+    opacity: 0.5;
+}
+.TextBox48,.TextBox63,.TextBox14,.TextBox15,.TextBox106,.TextBox107,.TextBox111,.TextBox112,.TextBox113,.TextBox114,.TextBox166{
+    transition: all 1s;
+}
+.TextBox48:hover,.TextBox63:hover,.TextBox14:hover,.TextBox15:hover,.TextBox106:hover,.TextBox107:hover,.TextBox111:hover,.TextBox112:hover,.TextBox113:hover,.TextBox114:hover,.TextBox166:hover{
+    opacity: 0.5;
+}
